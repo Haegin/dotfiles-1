@@ -21,6 +21,7 @@ else
   alias ll="ls -l"
 fi
 
+alias g="git"
 alias grep="rg"
 alias duf="du -sh * | sort -hr"
 alias less="less -r"
